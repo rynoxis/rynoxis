@@ -51,10 +51,8 @@ I’m a passionate **Full Stack Developer** and **Blockchain Expert** who believ
 ### 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rynoxis&show_icons=true&theme=tokyonight&count_private=true&hide=stars" alt="GitHub Stats" style="width: 48%; margin-right: 10px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rynoxis&layout=compact&theme=tokyonight&langs_count=6" alt="Most Used Languages" style="width: 48%;"/>
 </p>
-
 
 ---
 
